@@ -1,0 +1,33 @@
+<form action="" method="post" class="wpcf7-form init" aria-label="Contact form">
+	<div class="subscribe-form">
+		<p class="title">Sign Up For Our Newsletter</p>
+		<input type="text" name="name" id="name" class="sub-input" placeholder="Name">
+		<input type="email" name="email" id="email" class="sub-input" placeholder="Email">
+		<input type="submit" id="submit-btn">
+	</div>
+</form>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script>
+	$(document).ready(function() {
+		$("#submit-btn").click(function(event) {
+			event.preventDefault(); // Prevent the default form submission
+			var email = $("#email").val(); // Get the email input value
+
+			$.ajax({
+				url: 'https://externalapi.deciml.in/validateEmail',
+				crossDomain: true,
+				method: 'post',
+				headers: {
+					'api_key': 'd8ae999e-67fc-11ee-8c99-0242ac120002',
+					'client_id': 'website'
+				},
+				contentType: 'application/json',
+				data: JSON.stringify({
+					'email': email
+				})
+			}).done(function (response) {
+				console.log(response);
+			});
+		});
+	});
+</script>

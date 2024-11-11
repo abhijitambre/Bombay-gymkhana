@@ -1,0 +1,261 @@
+[
+    {
+        "name1": "ROYAL AUTOMOBILE CLUB OF AUSTRALIA",
+        "desc1": "89, Macquarie Street, Sydney, Australia, NSW 2000",
+        "phone2": " 610282732300",
+        "email1": "reception@raca.com.au",
+        "keywords1":"Royal testing1",
+        "website1" :"www.raca.com.au" 
+    },
+    {
+        "name1": "Chittagong Seniors Club Limited",
+        "desc1": "128, Jamal Khan Road, Chattogram, Bangladesh.",
+        "phone2": "+880-2333363996",
+        "email1": "seniorsclub27@gmail.com,",
+        "keywords1":"",
+        "website1" :"www.seniorsclubbd.com"
+    },
+    {   
+        "name1": "CITY TATTERSALLS CLUB,",
+        "desc1": "198 Pitt St., Sydney, N.S.W. 2000, Australia",
+        "phone2": " 92679421",
+        "email1": "members@citytatts.com.au ",
+        "keywords1":"Tattersalls City",
+        "website1" :"citytatts.com.au"
+    },
+    {
+        "name1": "CIRCULO ECUESTRE CLUB",
+        "desc1": "Balmes, 169 BIS, 08006 Barcelona, Spain",
+        "phone2": "34-93 4156000",
+        "email1": "club@circuloecuestre.es",
+        "keywords1":"",
+        "website1" :"www.circuloecuestre.es"
+    },
+    {
+        "name1": "DOHA CLUB",
+        "desc1": "P.O. Box 3666, Doha, Qatar Arabian Gulf,",
+        "phone2": "09744418822",
+        "email1": "info@doha-club.com",
+        "keywords1":"",
+        "website1" :"www.dohagolfclub.com"
+
+    },
+    {
+        "name1": "GRANITE CLUB",
+        "desc1": "2350 Bayview Avenue, Toronto, Ontario, Canada M2L 1E4",
+        "phone2": "416449-8713",
+        "email1": "membership@graniteclub.com",
+        "keywords1":"",
+        "website1" :"www.graniteclub.com"
+    },
+    {
+        "name1": "HONG KONG CRICKET CLUB",
+        "desc1": "137, Wong Nai Chung Gap Road, Hong Kong",
+        "phone2": "852-3511-8668",
+        "email1": "hkcc@hkcc.org",
+        "keywords1":"",
+        "website1" :"www.kcconsultants.com."
+    },
+    {
+        "name1": "HONG KONG FOOTBALL CLUB",
+        "desc1": "3, Sports Road, Happy Valley, Hong Kong",
+        "phone2": "85228309500",
+        "email1": "frontdesk@hkfc.com",
+        "keywords1":"",
+        "website1" :"www.hkfc.com"
+
+    },
+    {
+        "name1": "KOWLOON CRICKET CLUB",
+        "desc1": "Ko10 Cox’s Road, Tsimshatsui Kowloon, Hong Kong",
+        "phone2": "852-34737000",
+        "email1": "info@kcc.org.hk",
+        "keywords1":"",
+        "website1" :"www.kcconsultants.com."
+    },
+    {
+        "name1": "KARACHI GYMKHANA",
+        "desc1": "4, Club Road, Karachi – 75500 PAKISTAN",
+        "phone2": "5689173",
+        "email1": "",
+        "keywords1":"",
+        "website1" :"www.kg.com.pk"
+    },
+    {
+        "name1": "MARBELLA CLUB",
+        "desc1": "P.O. Box 5017, Sharjah, United Arab Emirates",
+        "phone2": "06-5741111",
+        "email1": "maresort@emirates.net.ae",
+        "keywords1":"",
+        "website1" :"www.marbellaclub.com"
+    },
+    {
+        "name1": "MOMBASA SPORTS CLUB",
+        "desc1": "Mnazi Moja Rd, off. Moi Avenue, P.O.Box 90241 - 80100 Mombasa, Kenya",
+        "phone2": "254412224226",
+        "email1": "info@mombasasportsclub.co.ke",
+        "keywords1":"",
+        "website1" :"www.mombasasportsclub.co.ke"
+
+    },
+    {
+        "name1": "NAIROBI CLUB",
+        "desc1": "P.O. Box 30171, Code:00100, G.P.O., Nairobi, Kenya",
+        "phone2": "254722203649",
+        "email1": "info@nairobiclub.com",
+        "keywords1":"",
+        "website1" :"www.nairobiclub.com"
+    },
+    {
+        "name1": "NAIROBI GYMKHANA",
+        "desc1": "P.O. Box 40895- 00100, Desai Road, Nairobi, Kenya",
+        "phone2": "254727531458",
+        "email1": "info@nairobigymkhana.com",
+        "keywords1":"",
+        "website1" :"www.nairobigymkhana.com"
+    },
+    {
+        "name1": "NOTTINGHAM & NOTTINGHAMPSHIRE UNITED SERVICES CLUB",
+        "desc1": "Newdigate House, 62 Castle Gate, Nottingham, Nottinghamshire, NG1 6AF",
+        "phone2": " 44 1159126220",
+        "email1": "secretary@thenottinghamclub.com",
+        "keywords1":"",
+        "website1" :"www.thenottinghamclub.com"
+
+    },
+    {
+        "name1": "ROYAL SELANGOR CLUB",
+        "desc1": "Jalan Raja, P.O. Box 10137, 50704 Kuala Lumpur Selangor, West Malaysia",
+        "phone2": "03-26927166",
+        "email1": "rscmail@rscweb.org.my",
+        "keywords1":"",
+        "website1" :"www.rsc.org.my"
+
+    },
+    {
+        "name1": "Shanghai Town & Country Club",
+        "desc1": "No. 46 Luding Road Shanghai, China 200062",
+        "phone2": "(86 21)-6025-8666",
+        "email1": "",
+        "keywords1":"",
+        "website1" :"www.stcclifestyle.cn  "
+
+    },
+    {
+        "name1": "SINGAPORE CRICKET CLUB",
+        "desc1": "Connaught Drive, Singapore - 179681",
+        "phone2": "(65) 6338 9271",
+        "email1": "scc@scc.org.sg",
+        "keywords1":"",
+        "website1" :"www.scc.org.sg"
+
+    },
+    {
+        "name1": "SRILANKA GYMKHANA CLUB",
+        "desc1": "No.31, Maitland Crescent, Colombo 07, 00700, Colombo, Western Province, Sri Lanka.",
+        "phone2": "(+94) 011-2691025",
+        "email1": "gymkhana.colombo@gmail.com",
+        "keywords1":"",
+        "website1" :"www.gymkhanaclub.lk"
+
+    },
+    {
+        "name1": "THE AMERICAN CLUB",
+        "desc1": "10, Claymore Hill, Singapore – 229 573",
+        "phone2": "65-67373411",
+        "email1": "infor@amclub.org.sg",
+        "keywords1":"",
+        "website1" :"www.american-club.com"
+
+    },
+    {
+        "name1": "THE ATHENAEUM CLUB",
+        "desc1": "87, Collins Street, Melbourne-3000 Victoria, Australia ABN No 50004079501",
+        "phone2": " (03) 9654 3200",
+        "email1": "secetary@athenaeumclub.com.au",
+        "keywords1":"",
+        "website1" :"www.theathenaeum.co.uk"
+
+    },
+    {
+        "name1": "THE AUCKLAND CLUB",
+        "desc1": "34, Shortland Street, P.O. Box 187, Auckland, New Zealand",
+        "phone2": "0-9-303 1526",
+        "email1": "",
+        "keywords1":"",
+        "website1" :"www.northernclub.co.nz"
+
+    },
+    {
+        "name1": "THE GERMANTOWN CRICKET CLUB",
+        "desc1": "Manheim and Morris Streets, Philadelphia, PA 19144",
+        "phone2": "215-438-9900",
+        "email1": "reception@germantowncricket.org",
+        "keywords1":"",
+        "website1" :"www.germantowncricket.org"
+
+    },
+    {
+        "name1": "THE LANSDOWNE CLUB",
+        "desc1": "9, Fitzmaurice Place, London – W1J 5JD",
+        "phone2": "4402076297200",
+        "email1": "reservations@lansdowneclub.com",
+        "keywords1":"",
+        "website1" :"www.lansdowneclub.com"
+
+    },
+    {
+        "name1": "THE RAIN TREE CLUB OF KUALA LUMPUR",
+        "desc1": "Lot 1002, Jalan Wickham, Off Jalan Ampang Hilir, 55000 Kuala Lumpur Wilayah Persekutuan, MALAYSIA",
+        "phone2": "03-4257 9066",
+        "email1": "rain3@po.jaring.my",
+        "keywords1":"",
+        "website1" :"www.raintree.com.my"
+
+    },
+    {
+        "name1": "THE ROYAL OVER-SEAS LEAGUE",
+        "desc1": "Over-Seas House, Park Place, St. James’s Street, London – SW1A 1LR.",
+        "phone2": "4402074080214",
+        "email1": "reservations@rosl.org.uk",
+        "keywords1":"",
+        "website1" :"www.rosl.org.uk"
+
+    },
+    {
+        "name1": "THE TANGLIN CLUB",
+        "desc1": "5, Stevens Road, Singapore – 257814",
+        "phone2": "65-6739-4161",
+        "email1": "frontoffice@tanglinclub.org",
+        "keywords1":"",
+        "website1" :"www.tanglinclub.org"
+
+    },
+    {
+        "name1": "THE UNIVERSITY CLUB",
+        "desc1": "1135, 16TH Street, Northwest Washington",
+        "phone2": "1 202 862 8800",
+        "email1": "",
+        "keywords1":"",
+        "website1" :"www.universityclubny.org"
+
+    },
+    {
+        "name1": "UNION CLUB OF BRITISH COLUMBIA",
+        "desc1": "805, Gordon Street, Victoria, B.C. V8W 1Z6 (CANADA)",
+        "phone2": "250-384-1151",
+        "email1": "info@unionclub.com",
+        "keywords1":"",
+        "website1" :"www.unionclub.com"
+
+    },
+    {
+        "name1": "VANCOUVER LAWN TENNIS & BADMINTON CLUB",
+        "desc1": "1630,15th Avenue, Vancouver, BC V6J 2K7, CANADA.",
+        "phone2": "604-7312191",
+        "email1": "info@vanlawn.com",
+        "keywords1":"",
+        "website1" :"www.vanlawn.com"
+
+    }
+]

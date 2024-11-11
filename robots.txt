@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+Sitemap: https://bombaygymkhana.com/responsivl/sitemap.xml
+
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

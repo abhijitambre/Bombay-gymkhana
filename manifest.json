@@ -1,0 +1,690 @@
+{
+    "background_color": "#ffffff",
+    "description": "",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Bombay Gymkhana",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "Bombay Gymkhana",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "icons": [{
+            "src": "img/favicon.ico",
+            "type": "image/jpeg",
+            "sizes": "40x39"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "71x71",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "89x89",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "107x107",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "142x142",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "284x284",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "150x150",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "188x188",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "225x225",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "300x300",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "600x600",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "310x150",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "388x188",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "465x225",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "620x300",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "1240x600",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "310x310",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "388x388",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "465x465",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "620x620",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "1240x1240",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "44x44",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "55x55",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "66x66",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "88x88",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "176x176",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "50x50",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "63x63",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "75x75",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "100x100",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "200x200",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "620x300",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "775x375",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "930x450",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "1240x600",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "2480x1200",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "16x16",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "20x20",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "24x24",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "30x30",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "32x32",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "36x36",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "40x40",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "44x44",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "48x48",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "60x60",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "64x64",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "80x80",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "16x16",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "20x20",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "24x24",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "30x30",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "32x32",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "36x36",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "40x40",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "44x44",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "48x48",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "60x60",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "64x64",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "80x80",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "16x16",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "20x20",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "24x24",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "30x30",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "32x32",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "36x36",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "40x40",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "44x44",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "48x48",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "60x60",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "64x64",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "80x80",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "48x48",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "16x16",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "20x20",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "29x29",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "32x32",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "40x40",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "50x50",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "57x57",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "58x58",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "60x60",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "64x64",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "76x76",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "80x80",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "87x87",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "100x100",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "114x114",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "120x120",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "152x152",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "167x167",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "180x180",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any"
+        },
+        {
+            "src": "images/icon.png",
+            "type": "image/png",
+            "sizes": "1024x1024",
+            "purpose": "any"
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+[
+    {
+        "name": "AHMEDABAD GYMKHANA",
+        "desc": "Ahmedabad Cantonment, Shahibaug, Ahmedabad, Gujarat 380004.",
+        "phone1": "07922867161",    
+        "email": "info@ahmedabadgymkhana.com",
+        "website":"www.ahmedabadgymkhana.com"
+    },
+    {
+        "name": "ASHOK CLUB",
+        "desc": "Opposite Secretariat,Bhagwan Das Rd,Rambagh,Jaipur,Rajasthan 302005",
+        "phone1": "0141 238 5090",
+        "phone4": "0141 23585213",   
+        "email": "ashokclub@rediffmail.com",
+        "website":"www.ashokclub.com"
+    },
+    {
+        "name": "BANGALORE CLUB",
+        "desc": "Field Marshal K.M. Cariappa Road, Bangalore - 560 025",
+        "phone1": "+918066060000",
+        "email": "secretary@bangaloreclub.com",
+        "website":"www.bangaloreclub.com"
+    },
+    {
+        "name": "BENGAL CLUB LTD",
+        "desc": "1/1, Russell Street, Kolkata – 700 071",
+        "phone1": "03340205101",
+        "email": "secretariat@thebengalclub.com",
+        "website":""
+        
+    },
+    {
+        "name": "BENGAL CLUB Registered Office",
+        "desc": "Bengal Club Ltd., 33B Chowringhee Road,Kolkata - 700 071. ",
+        "phone1": "03340205101",
+        "email": "secretariat@thebengalclub.com",
+        "website":"www.thebengalclub.com"
+    },
+    {
+        "name": "CALCUTTA CRICKET & FOOTBALL CLUB",
+        "desc": "19/1, Gurusaday Road, Kolkata-700 019",
+        "phone1": "03324615060",
+        "phone4": "03324615204",
+        "phone3": "03324614656",
+        "email": "ccfcsecretary@ccfc1792.com",
+        "website":"www.ccfc1792.com"
+    },
+    {
+        "name": "Calcutta Club Limited (CCL)",
+        "desc": "241, Acharya Jagdish Chandra Bose Rd, Gokhel Road, Elgin, Kolkata West Bengal - 700020",
+        "website":"cclclub@calcuttaclub.org"
+    },
+    {
+        "name": "CAWNPORE CLUB LTD",
+        "desc": "33, Cantonment, Kanpur – 208 004",
+        "phone1": "05122382909",
+        "email": "cawnporeclubltd@yahoo.com",
+        "website":"www.cawnporeclyb.org"
+    },
+    {
+        "name": "Central Provinces Club Nagpur Ltd.",
+        "desc": "Civil Lines, Nagpur 440 001 ,Maharashtra, India",
+        "phone1": "+917122540341",
+        "phone4": "+917122540342",
+        "email": "admin@cpclub.in ",
+        "website":"www.cpclub.in"
+    },
+    
+    {
+        "name": "COCHIN YACHT CLUB",
+        "desc": "Thevara Post, Konthuruthy, Ernakulam- 682013",
+        "phone1": "04842312308",
+        "email": " cochinyachtclub1985@gmail.com",
+        "website":"www.cochinyatchclub.com"
+    },
+    {
+        "name": "Darjeeling Gymkhana Club",
+        "desc": "27X8+7HW, The Mall, Darjeeling, West Bengal 734101",
+        "phone1":"3542254342",
+        "email": "darjeelinggymkhanaclub1909@yahoo.com",
+        "website":"darjeelinggymkhanaclub.com"
+    },
+    {
+        "name": "DELHI GYMKHANA CLUB LTD",
+        "desc": "Secretary’s Office, 2, Safderjung Road, New Delhi – 110 011",
+        "phone1":"8448897547",
+        "email": "delhigymkhana@hotmail.com",
+        "website":"delhigymkhana.org.in"
+    },
+    {
+        "name": "Emerald Garden Club Ltd. ",
+        "desc": "712/1, Rampura Road, Jaisinghpura (Bharota), Off. Ajmer Road, Jaipur-302026",
+        "phone1": "+911416555512",
+        "phone4": "+911416555513",
+        "email": "info@emeraldgardenclub.com ",
+        "website":"www.emeraldgardenclub.com"
+    },
+    {
+        "name": "Field Club",
+        "desc": "Fatehpura Road, Saheli Marg, Udaipur, Rajasthan-313001",
+        "phone1": "+912942560105",
+        "phone4": "+912942416199 ",
+        "email": "fieldclubindia@fieldclubindia.com",
+        "website":"www.fieldclubindia.com"
+    },
+    {
+        "name": "Gondwana Club",
+        "desc": "Seminary Hill,Nagpur 440 006 , Maharashtra ",
+        "phone1": "7122511335",
+        "phone4": "7122510183",
+        "email": "mail@gondwanaclub.com",
+        "website":"www.gondwanaclub.com"
+    },
+    {
+        "name": "HIGH RANGE CLUB",
+        "desc": "Munnar - 685612, Kerala State, India",
+        "phone1": "914865230253",
+        "email": "hrcmunnar@gmail.com",
+        "website":"www.highrangeclubmunnar.com"
+    },
+    {
+        "name": "Jaisal Club Ltd.",
+        "desc": "Jethwai Road, Jaisalmer-345001, Rajasthan",
+        "phone1": "+91-9784311100",
+        "phone3": "+91-9829023610 ",
+        "email": "info@jaisalclub.com",
+        "website":"www.jaisalclub.com"
+    },
+    {
+        "name": "JIWAJI CLUB  ",
+        "desc": "Mahadji Park Road, Lashkar Gwalior ,Madhya Pradesh – 474009 ,India",
+        "phone1": "07512324110 ",
+        "email": "",
+        "website":"www.jiwajiclub.in"
+    },
+    {
+        "name": "MADRAS CRICKET CLUB",
+        "desc": "1 Bells Road, Chepauk, Chennai-600005",
+        "phone1": "04428523976",
+        "email": "contact@madrascricketclub.org",
+        "website":"www.online.madrascricketclub.org"
+    },
+    {
+        "name": "MADRAS GYMKHANA CLUB",
+        "desc": "The Island, Mount Road, No.1 Anna Salai, Chennai – 600 002",
+        "phone1": "04425368160",
+        "phone4": "04425368168",
+        "phone3": "04425368169",
+        "email": "mgcmail1884@gmail.com",
+        "website":"www.madrasgymkhana.com"
+    },
+    {
+        "name": "MAHOMED BAGH CLUB LTD",
+        "desc": "202, Mahatma Gandhi Marg, Lucknow – 226 002",
+        "phone1": "05222480045",
+        "phone4": "05222977246",
+        "phone3": "05222480487",
+        "email": "mbclub.lucknow@gmail.com",
+        "website":"www.mbcclublucknow.org"
+    },
+    {
+        "name": "MANGALORE CLUB",
+        "desc": "Near Morgan’s’ Gate, Jepu, Mangalore – 575 001, Karnataka,",
+        "phone1": "+918242414146",
+        "email": "manager@mangaloreclub.com",
+        "website":"www.deccangymkhana.co.in"
+    },
+    {
+        "name": "POONA CLUB LTD",
+        "desc": "6, Bund Garden Road, Poona - 411 001",
+        "phone1": "+912026360083",
+        "email": "secretary@poonaclubltd.com",
+        "website":"www.poonaclubltd.com"
+    },
+    {
+        "name": "Ranchi Gymkhana Club ",
+        "desc": "Booty More, Dipatoli, Dist. Ranchi - 834009, Jharkhand",
+        "phone1": "+919798291390",
+        "email": "ranchi_gymkhana@rediffmail.com",
+        "website":"www.ranchigymkhanaclub.com"
+    },
+    {
+        "name": "SARDAR CLUB",
+        "desc": "Opp. Chami Polo Ground, Ratanada, Jodhpur (Rajasthan)",
+        "phone1": "+912912670120",
+        "email": "sardarclub@bsnl.in",
+        "website":"www.sardarclub.org"
+    },
+    {
+        "name": "SECUNDERABAD CLUB",
+        "desc": "220, Picket, Secunderabad - 500026",
+        "phone1": "04027804840",
+        "email": "contactus@secunderabadclub.org",
+        "website":"www.secunderabadclub.org"
+    },
+    {
+        "name": "THE COCHIN CLUB",
+        "desc": "St. Francis Church Road, Fort Cochin, Cochin - 682 001",
+        "phone1": "+914842215140",
+        "email": "info@cochinclub.in",
+        "website":"www.cochinclub.in"
+    },
+    {
+        "name": "THE COONOOR CLUB",
+        "desc": "Club Road, Gray`s Hill, Coonoor, The Nilgiris, Tamil Nadu-643101",
+        "phone1": "04232231717",
+        "email": "coonoorclub1885@gmail.com",
+        "website":"www.coonoorclub.com"
+    },
+    {
+        "name": "THE KODAIKANAL GOLF CLUB",
+        "desc": "Pambarpuram Village,Observatory P.O., Kodaikanal-624 103, Dindigul District, Tamilnadu.",
+        "phone1": "+914542240323",
+        "phone4": "+914542293323",
+        "phone3": "+918903330323",
+        "email": "kgckodai@gmail.com",
+        "website":"www.thekodaikanalclub.com"
+    },
+    {
+        "name": "THE SATURDAY CLUB LTD",
+        "desc": "7, Wood Street, Calcutta – 700 016",
+        "phone1": "03366527800",
+        "email": "satclub@vsnl.com",
+        "website":"www.saturday-club.com"
+    },
+    {
+        "name": "THE TRIVANDRUM GOLF CLUB",
+        "desc": "Golf Links Road, Kowdiar, Trivandrum, Kerala – 695 003",
+        "phone1": "04712434060",
+        "email": "saigolftrivandrum@gmail.com",
+        "website":"www.trivandrumclub.in"
+    },
+    
+    {
+        "name": "TOLLYGUNGE CLUB LTD",
+        "desc": "120, Deshapran Sasmal Road, Tollygunge, Kolkata, West Bengal-700033.",
+        "phone1": "03324176022",
+        "email": "sunitamodi@tollygungeclub.org",
+        "website":"www.tollygungeclub.org"
+    },
+    {
+        "name": "THE ANAMALLAI CLUB",
+        "desc": "Paralai Estate, Iyerpadi PO 642 108, Valparai, Coimbatore Dist, Tamil Nadu. ",
+        "phone1": "+914253292279",
+        "email": "anamallaiclub@gmail.com ",
+        "website":"www.thekeralaclub.com"
+    },
+    {
+        "name": "WALTAIR CLUB",
+        "desc": "Waltair Uplands Opp. Government Circuit House, Visakhapatnam – 530 003 ,Andhra Pradesh, India",
+        "phone1": "8912505462",
+        "phone4": "9177892888",
+        "email": "info@waltairclub.com",
+        "website":"www.waltairclub.com"
+    },
+    {
+        "name": "VCA RECREATION CLUB",
+        "desc": "Wardha Road, Village Jamtha, 16 Km Milestone on  Nagpur-Hydrabad Highway, Nagpur, Maharashtra 441114",
+        "phone1": "9096108314",
+        "email": "vcarc@vca.co.in",
+        "website":"www.vcarc.co.in"
+    },
+    {
+        "name": "WELLINGTON GYMKHANA CLUB",
+        "desc": "Wellington, Barracks Post, Nilgiris, Tamil Nadu – 643 231",
+        "phone1": "04232244030",
+        "email": "wgc@wellingtongymkhanaclub.co.in",
+        "website":"www.wellingtongymkhanaclub.com"
+    },
+    {
+        "name": "YESHWANT CLUB",
+        "desc": "Race Course Road, Indore - 452003, M.P., India",
+        "phone1": "07312549522",
+        "email": "yeshwantclub@gmail.com",
+        "website":"www.yeshwantclub.in"
+    }   
+]
